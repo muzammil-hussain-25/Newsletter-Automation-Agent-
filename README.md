@@ -32,6 +32,4 @@ Airtable automation workflow
 Google Sheets AI Agent
 Now, I wanted to explore multi-agent collaboration — an important skill for advanced automation and Agentic AI.
 
-✅ Screenshots section
-✅ Step-by-step workflow explanation
-Just tell me!Is this conversation helpful so far?                                                  
+                                              
